@@ -1,4 +1,3 @@
-# book.rb
 class Book
   attr_reader :id
   attr_accessor :title, :author

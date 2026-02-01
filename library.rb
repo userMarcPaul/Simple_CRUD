@@ -1,4 +1,3 @@
-# library.rb
 require_relative 'book'
 
 class Library

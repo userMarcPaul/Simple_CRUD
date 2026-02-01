@@ -1,4 +1,3 @@
-# main.rb
 require_relative 'library'
 
 library = Library.new
